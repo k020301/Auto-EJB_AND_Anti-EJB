@@ -1,0 +1,32 @@
+1x Auto-EJB & Anti-EJB By TotalMK - PCB
+
+1x RP2040-Tiny (I prefer to use the one with the Ribbon Cable as you only need to program It once, but you can also use the USB-C Version)
+1x 2xAA Battery Holder (If running from Battery Power)
+1x 2 Pin and 3 Pin Header If you wish to use Header plugs for Power Input and Signal In/Out to the Arcade Machine. (KF2510)
+1x IN5819 Schottky Diode 40V 1A
+1x 68R 0.25W 1% Metal Film Resistor
+4x 55R or 56R 0.25W 1% Metal Film Resistor
+2x 15R 0.25W 1% Metal Film Resistor
+1x 40 Way Header Pin Strip - Single row, straight pin, 2.54mm pin spacing.
+8x Green Rectangle LEDs 7mm x 5mm x 2mm 3.0v - 3.2v
+4x Yellow Rectangle LEDs 7mm x 5mm x 2mm 2.0v - 2.2v
+2x Red Rectangle LEDs 7mm x 5mm x 2mm 2.0v - 2.2v
+2x Blue Rectangle LEDs 7mm x 5mm x 2mm 3.0v - 3.2v
+3x Throughhole Standard Tactile Switch 6mm x 6mm x 4.3mm 
+3x Slide Switch 2.54mm Pin Pitch, 3 Pin, SPDT, No Side Anchors
+
+3 Different Color Wires to bridge PCB to Arcade Machine Buttons, Black for ground and 2 other colors for P1 Block and P2 Block. If you are using direct power and not Batteries, also red wire for 5V Power In. 
+Solder, Side Cutters, Soldering Iron 
+I will Upload Pictures of the components I used. I get most parts from AliExpress.
+
+-- Ali Express Links --
+RP2040-Tiny: https://www.aliexpress.com/item/1005006295282923.html
+Any AA Battery Holder: https://www.aliexpress.com/w/wholesale-AA-Battery-Holder.html
+2 Pin Header + Housing: https://www.aliexpress.com/item/32782704195.html (Optional)
+3 Pin Header + Housing: https://www.aliexpress.com/item/32782704195.html (Optional)
+Schottky Diode 1N5819 1A 40V DO-41: https://www.aliexpress.com/item/1005005539516519.html
+68R / 56R / 15R Resistors: https://www.aliexpress.com/item/1005004608600005.html
+40 Way Header Pin 2.54mm Pitch: https://www.aliexpress.com/item/32860041179.html
+Rect LEDs green/red/blue/yellow: https://www.aliexpress.com/item/1005006049786100.html
+Tactile Switch 6mm x 6mm x 4.3mm or 6mm x 6mm x 5mm (The Last Dimension is how tall the Button Is) Through hole: https://www.aliexpress.com/item/32816784691.html
+SPDT Slide Switch, 3 Pin, No Side Anchors, 2.54mm Pitch: https://www.aliexpress.com/item/4001207529493.html
